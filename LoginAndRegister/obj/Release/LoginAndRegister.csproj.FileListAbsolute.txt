@@ -1,0 +1,11 @@
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\bin\Release\LoginAndRegister.exe.config
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\bin\Release\LoginAndRegister.exe
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\bin\Release\LoginAndRegister.pdb
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\obj\Release\LoginAndRegister.csproj.AssemblyReference.cache
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\obj\Release\LoginAndRegister.csproj.SuggestedBindingRedirects.cache
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\obj\Release\LoginAndRegister.Form1.resources
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\obj\Release\LoginAndRegister.Properties.Resources.resources
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\obj\Release\LoginAndRegister.csproj.GenerateResource.cache
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\obj\Release\LoginAndRegister.csproj.CoreCompileInputs.cache
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\obj\Release\LoginAndRegister.exe
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\obj\Release\LoginAndRegister.pdb

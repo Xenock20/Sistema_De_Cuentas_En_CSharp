@@ -1,0 +1,11 @@
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\bin\Debug\LoginAndRegister.exe.config
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\bin\Debug\LoginAndRegister.exe
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\bin\Debug\LoginAndRegister.pdb
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\obj\Debug\LoginAndRegister.csproj.AssemblyReference.cache
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\obj\Debug\LoginAndRegister.csproj.SuggestedBindingRedirects.cache
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\obj\Debug\LoginAndRegister.Form1.resources
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\obj\Debug\LoginAndRegister.Properties.Resources.resources
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\obj\Debug\LoginAndRegister.csproj.GenerateResource.cache
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\obj\Debug\LoginAndRegister.csproj.CoreCompileInputs.cache
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\obj\Debug\LoginAndRegister.exe
+C:\Users\Federico\Documents\Pokemon c#\LoginAndRegister\obj\Debug\LoginAndRegister.pdb
